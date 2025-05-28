@@ -19,3 +19,28 @@
     font-size:larger;
     font-weight: bold;
 }
+.card{
+    width: 400px;
+    height: 300px;
+    background-color: rgba(6, 182, 251, 0.068);
+}
+.icon-card{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(11, 66, 162);
+    transform: rotate(45deg);
+    
+}
+.fa{
+    transform: rotate(-45deg);
+    width:5px;
+    padding-right: 20px;
+}
+.px-6{
+    padding-left: 100px;
+}
+.row1{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    
+}
