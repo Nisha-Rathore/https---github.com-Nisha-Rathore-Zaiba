@@ -49,4 +49,9 @@
     padding: 1px;
     background-color:rgb(11, 66, 162);;
     width: 150px;
+    
+}
+.row3{
+    display: grid;
+    grid-template-columns: 40% 50% 38%;
 }
