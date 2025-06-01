@@ -45,8 +45,8 @@
     
 }
 .style{
-    border-bottom: 5px solid rgb(11, 66, 162);;
-    padding: 1px;
+   
+    height: 8px;
     background-color:rgb(11, 66, 162);;
     width: 150px;
     
@@ -58,9 +58,22 @@
 .card3{
     width:420px;
      height:360px; 
-     background-color: rgba(154, 250, 218, 0.548)
+     background-color: rgba(154, 232, 250, 0.548)
 }
 .row4{
     display: grid;
-    grid-template-columns: 30% 20% 20% 30%;
+    grid-template-columns: 30% 25% 20% 30%;
+}
+.card4{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(28, 106, 241);
+
+}
+.point{
+    width: 5px;
+    height: 5px;
+    background-color: whitesmoke;
+   margin-bottom: 12px;
+    
 }
